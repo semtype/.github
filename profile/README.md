@@ -12,7 +12,7 @@
 
 ### Semtype
 
-**Semtype** is a standard for defining and discovering universal, composable types that can be understood and used by both people and machines.
+**Semtype** is a standard for defining and discovering universally understandable types that can be used and composed by both people and machines.
 
 Semtype was originally developed for use as part of the open-source, self-building **[HASH]** database and platform for high-trust AI.
 
